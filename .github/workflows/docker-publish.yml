@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository }}:v1
+  IMAGE_NAME: jlin317317/autocon3-ws-a3:v1
 
 jobs:
   build_and_publish:
